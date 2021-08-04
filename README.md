@@ -1,4 +1,3 @@
-This is my personal portfolio in making
-My name is Pooja.
+# My PortFolio
 
-This is a example of guit hub.
+This is my personal portfolio in making.
